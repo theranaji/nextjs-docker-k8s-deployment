@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nextjs-app
-        image: ghcr.io/YOUR_USERNAME/nextjs-docker-k8s-deployment:latest
+        image: ghcr.io/theranaji/nextjs-docker-k8s-deployment:latest
         ports:
         - containerPort: 3000
         env:
