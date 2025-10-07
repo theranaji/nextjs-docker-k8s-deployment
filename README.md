@@ -213,4 +213,4 @@ ghcr.io/YOUR_USERNAME/nextjs-docker-k8s-deployment:latest
 ---
 
 **Repository URL**: `https://github.com/YOUR_USERNAME/nextjs-docker-k8s-deployment`  
-**GHCR Image URL**: `ghcr.io/YOUR_USERNAME/nextjs-docker-k8s-deployment:latest`
+**GHCR Image URL**: `ghcr.io/YOUR_USERNAME/nextjs-docker-k8s-deployment:latest`# Trigger workflow
